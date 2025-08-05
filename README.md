@@ -1,4 +1,4 @@
-digital-cinematography-headstart
-# Digital Cinematography - Headstart
+digital-cinematography-management
+# Digital Cinematography Management
 
 - [References](./REFERENCES.md)
